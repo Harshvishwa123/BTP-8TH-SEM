@@ -93,7 +93,15 @@ Manual annotation into semantic categories:
 
 ## 📈 Visualizations
 
-The project generates:
+**Example outputs:**
+* `sbert_dendrogram.png`
+* `foodbert_dendrogram.png`
+* `cookbert_dendrogram.png`
+* `sbert_umap.png`
+* `foodbert_umap.png`
+* `cookbert_umap.png`
+
+---
 
 - 📌 **Dendrograms** (Hierarchical clustering)
 - 📌 **UMAP plots** (2D embedding projection)
