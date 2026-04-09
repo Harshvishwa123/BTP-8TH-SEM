@@ -102,9 +102,3 @@ Manual annotation into semantic categories:
 * `cookbert_umap.png`
 
 ---
-
-- 📌 **Dendrograms** (Hierarchical clustering)
-- 📌 **UMAP plots** (2D embedding projection)
-- 📌 Cluster distributions
-
-Example outputs:
